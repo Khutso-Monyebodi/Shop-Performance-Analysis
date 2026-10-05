@@ -13,15 +13,15 @@ The analysis aims to answer key business questions, including:
 
 * How much revenue did the shop generate?
 * How many orders were processed?
-* What is the Average Order Value (AOV)?
+* Provide the average unit prices for all the products?
 * Is revenue growing, declining or remaining stable?
 * Which products and categories generate the most revenue?
-* Which products sell the most units?
-* Which cities and customer segments are most valuable?
+* Which products sell the most units and how much revenue do they produce?
+* Which cities and customer segments are most valuablevor generates most revenue?
 * What percentage of orders are cancelled or returned?
-* What percentage of payments fail?
+* Which year produced the most revenue?
 * Which payment methods experience the highest failure rates?
-* What is the relationship between discounts, order value and revenue?
+* Povide product categories that produced the most revenue in ascending order?
 * What actions can management take based on the findings?
 
 ## 📁 Data Sources
